@@ -53,17 +53,13 @@ Para o caso apresentado, a melhor metodologia para a solução do problema é o 
 
 ### Geometria do projeto
 
-
 ![Figura 1 - imagem da base do cano com 40mm de diâmetro](Base.png)
 Figura 1 - imagem da base do cano com 40mm de diâmetro
-
 
 ![Figura 2 - imagem do cano em seu comprimento, com 1m](Largura.png) 
 Figura 2 - imagem do cano em seu comprimento, com 1m
 
 ### Esquemático da modelagem
 
-
-
 ![Figura  3 - representação esquemática do problema](desenho.png)
-Figura  3 - representação esquemática do problema
+Figura 3 - representação esquemática do problema
