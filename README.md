@@ -7,3 +7,63 @@ Problema 1: Uma instalação de bombeamento tem apresentado problemas em uma se�
 - Determinar se estes valores de vazão e perda de carga estão coerentes ou não, e o motivo para isto.
 - Apresentar possibilidades de problemas em caso dos valores colocados acima não estarem coerentes.
 - Usando a simulação apresentada, realizar um estudo paramétrico do comprimento do tubo para avaliar se o cenário acima é normal ou não para esta instalação.
+
+# Modelagem
+
+## Perguntas
+
+### Objetivo
+
+O objetivo desse projeto é a análise da perda de carga em um cano de 40mm de diâmetro variando o seu comprimento, realizando assim comparações com cálculos feitos a partir da Equação de Bernoulli para a verificação da coerência dos dados obtidos via software.
+
+### Requisitos de solução
+
+Análise do comportamento do escoamento de um fluido, usando como parâmetros iniciais a vazão e a perda de carga apresentadas, para a avaliação da variação da perda de carga para diferentes tamanhos do cano, comparando com os resultados obtidos de forma análitica
+
+### Finalidade do projeto
+
+Avaliação da perda de carga de um cano, de acordo com a mudança do seu tamanho e a verificação da veracidade dos resultados obtidos 
+
+### Possíveis hipóteses de simplificação
+
+Uma hipotése que pode ser considerada é a de que a pressão relativa na entrada do cano seja igual a 0 Pa, o que facilitaria os cálculos para a verificação da perda de carga de 2 Pa
+
+### Hipóteses de simplificação necessárias
+
+Para uma melhor decorrência do projeto é necessário que sejam consideradas que o escoamento seja laminar e que não haja troca de calor com o meio, ou seja, esteja em um ambiente isolado 
+
+### Precisão dos resultados obtidos
+
+A precisão dos resultados seria de 3 casas decimais para ser possível cálculos precisos de forma análitica também
+
+### Prazo de entrega do projeto
+
+O prazo estipulado inicialmente é de 40 dias, sendo eles descriminados da seguinte forma 
+10 dias para a modelagem 
+15 dias para o pré-processamento 
+15 dias para o processamento e pós-processamento
+
+### Metodologias possíveis para o desenvolvimento do projeto
+
+Para o caso apresentado, a melhor metodologia para a solução do problema é o CFD, tendo em vista que essa metodologia combina técnicas de cálculo numérico e dinâmica dos fluidos para a resolução de problemas de análise de escoamento e suas possíveis váriaveis.
+
+---
+
+## Projeto/Imagens
+
+### Geometria do projeto
+
+
+![Figura 1 - imagem da base do cano com 40mm de diâmetro](Base.png)
+Figura 1 - imagem da base do cano com 40mm de diâmetro
+
+
+![Figura 2 - imagem do cano em seu comprimento, com 1m](Largura.png) 
+Figura 2 - imagem do cano em seu comprimento, com 1m
+
+### Esquemático da modelagem
+
+
+
+![Figura  3 - representação esquemática do problema](desenho.png)
+Figura  3 - representação esquemática do problema
