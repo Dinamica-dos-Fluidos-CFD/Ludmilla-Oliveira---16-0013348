@@ -61,5 +61,5 @@ Figura 2 - imagem do cano em seu comprimento, com 1m
 
 ### Esquemático da modelagem
 
-![Figura  3 - representação esquemática do problema](desenho.png)
+![Figura  3 - representação esquemática do problema](Desenho.png)
 Figura 3 - representação esquemática do problema 
