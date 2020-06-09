@@ -16,17 +16,24 @@ Problema 1: Uma instalação de bombeamento tem apresentado problemas em uma se�
 
 O objetivo desse projeto é a análise da perda de carga em um cano de 40mm de diâmetro variando o seu comprimento, realizando assim comparações com cálculos feitos a partir da Equação de Bernoulli para a verificação da coerência dos dados obtidos via software.
 
+#### Objetivos específicos 
+
+Os objetivos específicos são a validação das informações apresentadas para vazão e perda de carga, e caso sejam incoerentes apresentar possibilidades para tal, e a partir da validação o prosseguimento para o objetivo geral. 
+
 ### Requisitos de solução
 
-Análise do comportamento do escoamento de um fluido, usando como parâmetros iniciais a vazão e a perda de carga apresentadas, para a avaliação da variação da perda de carga para diferentes tamanhos do cano, comparando com os resultados obtidos de forma análitica
+Para o problema proposto é a variação da perda de carga com o comprimento de um cano de 40mm de diâmetro, e caso não seja possivel a análise que seja indicado o meio para que ela seja feita.
 
 ### Finalidade do projeto
 
-Avaliação da perda de carga de um cano, de acordo com a mudança do seu tamanho e a verificação da veracidade dos resultados obtidos 
+Para o problema proposto é a variação da perda de carga com o comprimento de um cano de 40mm de diâmetro, e caso não seja possivel a análise que seja indicado o meio para que ela seja feita. 
 
 ### Possíveis hipóteses de simplificação
 
-Uma hipotése que pode ser considerada é a de que a pressão relativa na entrada do cano seja igual a 0 Pa, o que facilitaria os cálculos para a verificação da perda de carga de 2 Pa
+Uma hipotése que pode ser considerada é a de que a pressão relativa na entrada do cano seja igual a 0 Pa, o que facilitaria os cálculos para a verificação da perda de carga de 2 Pa. Outras possíveis siplificações são
+*não existencia de flanges 
+*possui expessura regular  
+*é composto somente por um material 
 
 ### Hipóteses de simplificação necessárias
 
@@ -39,9 +46,9 @@ A precisão dos resultados seria de 3 casas decimais para ser possível cálculo
 ### Prazo de entrega do projeto
 
 O prazo estipulado inicialmente é de 40 dias, sendo eles descriminados da seguinte forma 
-10 dias para a modelagem 
-15 dias para o pré-processamento 
-15 dias para o processamento e pós-processamento
+*10 dias para a modelagem 
+*15 dias para o pré-processamento 
+*15 dias para o processamento e pós-processamento
 
 ### Metodologias possíveis para o desenvolvimento do projeto
 
