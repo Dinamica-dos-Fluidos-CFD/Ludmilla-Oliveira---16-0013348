@@ -30,10 +30,11 @@ Para o problema proposto é a variação da perda de carga com o comprimento de 
 
 ### Possíveis hipóteses de simplificação
 
-Uma hipotése que pode ser considerada é a de que a pressão relativa na entrada do cano seja igual a 0 Pa, o que facilitaria os cálculos para a verificação da perda de carga de 2 Pa. Outras possíveis siplificações são
--não existencia de flanges 
--possui expessura regular  
--é composto somente por um material 
+Uma hipotése que pode ser considerada é a de que a pressão relativa na entrada do cano seja igual a 0 Pa, o que facilitaria os cálculos para a verificação da perda de carga de 2 Pa. Outras possíveis siplificações são:
+
+-Não existencia de flanges 
+-Possui expessura regular  
+-É composto somente por um material 
 
 ### Hipóteses de simplificação necessárias
 
@@ -46,6 +47,7 @@ A precisão dos resultados seria de 3 casas decimais para ser possível cálculo
 ### Prazo de entrega do projeto
 
 O prazo estipulado inicialmente é de 40 dias, sendo eles descriminados da seguinte forma 
+
 -10 dias para a modelagem 
 -15 dias para o pré-processamento 
 -15 dias para o processamento e pós-processamento
