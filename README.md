@@ -26,7 +26,7 @@ Para o problema proposto é a variação da perda de carga com o comprimento de 
 
 ### Finalidade do projeto
 
-O projeto possui uma finalidade acadêmica, a qual é contituida pela avaliação da perda de carga de um cano, de acordo com a mudança do seu tamanho e a verificação da veracidade dos resultados obtidos 
+O projeto possui uma finalidade pratica, a qual é contituida pela avaliação da perda de carga de um cano, de acordo com a mudança do seu tamanho e a verificação da veracidade dos resultados obtidos 
 
 ### Possíveis hipóteses de simplificação
 
