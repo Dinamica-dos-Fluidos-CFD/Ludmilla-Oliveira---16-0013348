@@ -82,17 +82,16 @@ Figura 3 - representação esquemática do problema
 ### Detalhamento do domínio dos cálculos
 
 O detalhamento dos cálculos será mínimo, tendo em vista a simplicidade da geometria  e para o objeto de análise, a diferença de pressão, o qual será calculado de forma análitica por meio de uma das soluções da equação de Navier-Stokes apresentada abaixo.
-
-$$\Delta p = 32\frac{L}{D}\frac{\mu \bar{V}}{D}$$
-
+$$
+\Delta p = 32\frac{L}{D}\frac{\mu \bar{V}}{D}
+$$
 A modelagem feita para a solução da equação de Navier-Stokes considera um escoamento laminar plenamente desenvolvido, e tal situação se encaixa nas simplificações já estabelecidas anteriormente na modelagem do problema. 
 
 ### Adequação da geometria
 
 Sim, considerando as hipoteses de simplificação já apresentadas, a geometria proposta se adequa as necessidades do problema tendo em vista a consideração de uma tubulação simples 
 
-### Tipo de malha 
-( estruturada ou não estruturada, volumes finitos ou infinitos)
+### Tipo de malha ( estruturada ou não estruturada, volumes finitos ou infinitos)
 
 Para o problema analisado foi utilizada uma malha estruturada, produzida a partir do generate tendo como caracteristica ser hexagonal simples, essa malha é adequada ao projeto tendo em vista sua simplicidade geométrica; Foram considerados volumes finitos, os quais são mais adequados para a análise de fluidos. 
 
@@ -103,11 +102,15 @@ Na entrada do tudo dado temos as seguintes informações
 - Raio = 0,02m
 - Velocidade = 0,0796 m/s, determindo de acordo com a seguinte equação
 
-$$V = \frac{Q_{a}}{A}$$
+$$
+V = \frac{Q_{a}}{A}
+$$
 
       sendo que 
 
-$Q_{a}$  - vazão volumétrica 
+$$
+Q_{a}
+$$  - vazão volumétrica 
 
 ### Escolhas a serem feitas sobre o processamento das soluções
 
@@ -158,14 +161,14 @@ Já na etapa de Setup, são definidos os parâmetros que são utilizados nos cá
 
     2. Na saída, são definidos como o tipo Outlet e a pressão como sendo estática  
 
-        ![Figura 8 - Determinação da pressão na saida/pressão_desejada_na_saida.png](pressão desejada na saida.png)
+        ![Figura 8 - Determinação da pressão na saida/pressão_desejada_na_saida.png](pressão_desejada_na_saida.png)
 
 3. E na opção Solver Control, são mantidas as opções padrões já oferecidas pelo problema 
 
-    ![Figura 9 - Opções relacionadas a solução dos problemas/solver_control.png](solver control.png)
+    ![Figura 9 - Opções relacionadas a solução dos problemas/solver_control.png](solver_control.png)
 
 ### Imagens de malha e cálculo do problema
 
 ![Figura 10 - Demonstração da malha gerada/Malha.png](Malha.png)
 
-![Figura 11 - Resultado do pré processamento/pré processamento.png](pré processamento.png)
+![Figura 11 - Resultado do pré processamento/pré processamento.png](pré_processamento.png)
