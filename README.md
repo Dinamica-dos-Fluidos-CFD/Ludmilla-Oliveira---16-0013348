@@ -161,7 +161,7 @@ Já na etapa de Setup, são definidos os parâmetros que são utilizados nos cá
 
     2. Na saída, são definidos como o tipo Outlet e a pressão como sendo estática  
 
-        ![Figura 8 - Determinação da pressão na saida/pressão_desejada_na_saida.png](pressão_desejada_na_saida.png)
+        ![Figura 8 - Determinação da pressão na saida/pressão_desejada_na_saida.png](pressao_desejada_na_saida.png)
 
 3. E na opção Solver Control, são mantidas as opções padrões já oferecidas pelo problema 
 
@@ -171,4 +171,4 @@ Já na etapa de Setup, são definidos os parâmetros que são utilizados nos cá
 
 ![Figura 10 - Demonstração da malha gerada/Malha.png](Malha.png)
 
-![Figura 11 - Resultado do pré processamento/pré processamento.png](pré_processamento.png)
+![Figura 11 - Resultado do pré processamento/pré processamento.png](pre_processamento.png)
