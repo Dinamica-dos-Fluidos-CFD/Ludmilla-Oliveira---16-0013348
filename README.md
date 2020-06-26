@@ -102,10 +102,11 @@ Na entrada do tudo dado temos as seguintes informações
 - Raio = 0,02m
 - Velocidade = 0,0796 m/s, determindo de acordo com a seguinte equação
 
-![Equação](CodeCogsEqn(1).gif)
-      sendo que 
+![Equação](velocidade.gif)
 
-![Equação](CodeCogsEqn(2).gif) - vazão volumétrica 
+   sendo que 
+
+![Equação](sendo_que.gif) - vazão volumétrica 
 
 ### Escolhas a serem feitas sobre o processamento das soluções
 
