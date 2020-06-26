@@ -82,9 +82,9 @@ Figura 3 - representação esquemática do problema
 ### Detalhamento do domínio dos cálculos
 
 O detalhamento dos cálculos será mínimo, tendo em vista a simplicidade da geometria  e para o objeto de análise, a diferença de pressão, o qual será calculado de forma análitica por meio de uma das soluções da equação de Navier-Stokes apresentada abaixo.
-$$
-\Delta p = 32\frac{L}{D}\frac{\mu \bar{V}}{D}
-$$
+
+![Equação](CodeCogsEqn.gif)
+
 A modelagem feita para a solução da equação de Navier-Stokes considera um escoamento laminar plenamente desenvolvido, e tal situação se encaixa nas simplificações já estabelecidas anteriormente na modelagem do problema. 
 
 ### Adequação da geometria
@@ -102,15 +102,10 @@ Na entrada do tudo dado temos as seguintes informações
 - Raio = 0,02m
 - Velocidade = 0,0796 m/s, determindo de acordo com a seguinte equação
 
-$$
-V = \frac{Q_{a}}{A}
-$$
-
+![Equação](CodeCogsEqn(1).gif)
       sendo que 
 
-$$
-Q_{a}
-$$  - vazão volumétrica 
+![Equação](CodeCogsEqn(2).gif) - vazão volumétrica 
 
 ### Escolhas a serem feitas sobre o processamento das soluções
 
