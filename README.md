@@ -223,7 +223,7 @@ Esse resultado encontrado válida o valor dito no enunciado, ou seja, há uma co
 
 Os resultados encontrados pelos cálculos foram feitos a partir da fórmula 
 
-![Equação](CodeCogEqn.gif)
+![Equação](pressao.gif)
 
 a qual é uma solução da equação de Navier-Stokes. 
 
@@ -231,7 +231,7 @@ Os resultados estão dispostos no quadro abaixo, de forma a facilitar uma compar
 
 Os resultados calculados estão também dentro do esperado, comprovando a ideia de que a variação de pressão aumenta a medida em que o tamanho do tubo aumenta, e na diminuição no caso dos menores tubos.
 
-Tamanhos (M) | Variação de pressão análitica (Pa) | Variação de pressão software (Pa)
+Tamanhos (m) | Variação de pressão análitica (Pa) | Variação de pressão software (Pa)
 ------------:|-----------------------------------:|---------------------------------:
 0.50         |0.796                               |0.8815
 0.75         |1.194                               |1.2213
