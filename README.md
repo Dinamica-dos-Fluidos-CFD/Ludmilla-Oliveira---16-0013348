@@ -175,7 +175,7 @@ Já na etapa de Setup, são definidos os parâmetros que são utilizados nos cá
 
 ## Perguntas
 
-### Histórico de convergencia
+### Histórico de convergência
 
 O gráfico abaixo mostra a convergência da simulação, que é caracterizada por todos as curvas apontarem para um mesmo sentido. No caso apresentado, todas as curvas apontam para baixo, sendo assim a simulação converge, o que era esperado para o problema.
 
@@ -183,13 +183,13 @@ O gráfico abaixo mostra a convergência da simulação, que é caracterizada po
 
 ### Tempo de processamento da simulação
 
-No processamento da simulação foram levados 21.887 segundos, como apresentado abaixo. 
+No processamento da simulação foram levados 21.887 segundos, como apresentado abaixo.
 
 ![Tempo de processamento/tempo.png](tempo.png)
 
 ### Resíduos
 
-Os resíduos estão dentro do esperado, dada a malha hexagonal gerada de forma automática, porém adequada ao problema. 
+Os resíduos estão dentro do esperado, dada a malha hexagonal gerada de forma automática, porém adequada ao problema.
 
 ### Valores qualitativos
 
@@ -209,7 +209,7 @@ E o valor máximo da velocidade do fluido
 
 ### Coerência dos resultados obtidos
 
-No escoamento era esperado que a medida em que o tamanho do tubo aumentasse a variação da pressão também aumentasse, ao compasso que se o tamanho diminuisse a variação de pressão também diminua. Sendo assim, os resultados estão coerentes para a análise desse parâmetro. 
+No escoamento era esperado que a medida em que o tamanho do tubo aumentasse a variação da pressão também aumentasse, ao compasso que se o tamanho diminuísse a variação de pressão também diminua. Sendo assim, os resultados estão coerentes para a análise desse parâmetro.
 
 ---
 
@@ -217,21 +217,20 @@ No escoamento era esperado que a medida em que o tamanho do tubo aumentasse a va
 
 ### Análise dos resultados
 
-A simulação foi feita para 6 tamanhos de tubos diferentes, 1 deles sendo o proposto no enunciado e os outros escolhidos de forma arbitrária. O resultado encontrado para o tubo de 1m foi de 1.82 Pa na variação de pressão, o qual se aproxima ao dito no enunciado, que foi de 2 Pa, a diferença foi de 9% entre os resultados. 
-
-Esse resultado encontrado válida o valor dito no enunciado, ou seja, há uma coerência entre os valores apresentados. 
+A simulação foi feita para 6 tamanhos de tubos diferentes, 1 deles sendo o proposto no enunciado e os outros escolhidos de forma arbitrária. O resultado encontrado para o tubo de 1m foi de 1.82 Pa na variação de pressão, o qual se aproxima ao dito no enunciado, que foi de 2 Pa, a diferença foi de 9% entre os resultados.Esse resultado encontrado valida o valor dito no enunciado, ou seja, há uma coerência entre os valores apresentados.
 
 ### Comparação dos resultados númericos
 
-Os resultados encontrados pelos cálculos foram feitos a partir da fórmula 
+Os resultados encontrados pelos cálculos foram feitos a partir da fórmula
 
 ![Equação](pressao.gif)
 
-a qual é uma solução da equação de Navier-Stokes. 
+a qual é uma solução da equação de Navier-Stokes.
 
-Os resultados estão dispostos no quadro abaixo, de forma a facilitar uma comparação entre as variações de pressão calculadas pela fórmula e os valores obtidos na simulação. 
+Os resultados estão dispostos no quadro abaixo, de forma a facilitar uma comparação entre as variações de pressão calculadas pela fórmula e os valores obtidos na simulação.
 
-Os resultados calculados estão também dentro do esperado, comprovando a ideia de que a variação de pressão aumenta a medida em que o tamanho do tubo aumenta, e na diminuição no caso dos menores tubos.
+Os resultados calculados estão também dentro do esperado, comprovando a ideia de que a variação de pressão aumenta à medida em que o tamanho do tubo aumenta, e na diminuição no caso dos menores tubos.
+
 
 Tamanhos (m) | Variação de pressão análitica (Pa) | Variação de pressão software (Pa)
 ------------:|-----------------------------------:|---------------------------------:
@@ -242,11 +241,11 @@ Tamanhos (m) | Variação de pressão análitica (Pa) | Variação de pressão s
 1.50         |2.388                               |2.8797
 2.00         |3.184                               |3.7592
 
-Na comparação entre as duas formas de obtenção das variações de pressão, é elucidada as diferenças entre elas. Essa diferença mostra um problema na tubulação, tendo em vista que as hipóteses de simplificação foram aplicadas em ambos os casos, os quais serão melhor explicados posteriormente. 
+Na comparação entre as duas formas de obtenção das variações de pressão, é elucidada as diferenças entre elas. Essa diferença mostra um problema na tubulação, tendo em vista que as hipóteses de simplificação foram aplicadas em ambos os casos, os quais serão melhor explicados posteriormente.
 
 ### Visualização do escoamento
 
-Nas imagens relacionadas a velocidade, é importante observar que as menores velocidades estão localizadas nas paredes do tubo e a caracterização do escoamento plenamente desenvolvido. Já no gráfico é visto um perfil de velocidade quase parabólico, apesar de ser um pouco quadrada, ainda pode ser tida como parábola. 
+Nas imagens relacionadas a velocidade, é importante observar que as menores velocidades estão localizadas nas paredes do tubo e a caracterização do escoamento plenamente desenvolvido. Já no gráfico é visto um perfil de velocidade quase parabólico, apesar de ser um pouco quadrada, ainda pode ser tida como parábola.
 
 ![Contorno de velocidade/contorno_velocidade.png](contorno_velocidade.png)
 
@@ -258,9 +257,9 @@ Nas imagens relacionadas a pressão, o principal ponto é a variação de press�
 
 ![Gráfico de perda de carga/grafico_perda_carga.png](grafico_perda_carga.png)
 
-As imagens acima são semelhantes para todos os comprimentos bem como sua análise, por isso não foram elencadas. 
+As imagens acima são semelhantes para todos os comprimentos bem como sua análise, por isso não foram elencadas.
 
-### Análise dos resultados paramétricos
+### Análise dos resultados obtidos pelo estudo paramétrico
 
 No projeto foram obtidos os dados para a variação de pressão com a variação do comprimento do tubo de duas formas distintas, por meio de fórmulas e simulação.
 
