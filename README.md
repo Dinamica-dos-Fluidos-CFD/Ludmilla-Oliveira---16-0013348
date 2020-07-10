@@ -193,15 +193,17 @@ Os resíduos estão dentro do esperado, dada a malha hexagonal gerada de forma a
 
 ### Valores qualitativos
 
-Sim, pois ela é capaz de mostrar caracteristicas relacionadas ao escoamento, como o pleno desenvolvimento do escoamento e o escoamento aproximadamente parábolico. 
+Com a simulação realizada para o parâmetro pedido, são gerados resultados qualitativos, como os gráficos de perfil de velocidade e perda de carga e as imagens do contorno de velocidade e pressão. 
 
 ### Cálculos de resultados quantitativos e qualitativos
 
-Sim, para o objeto de estudo requerido, variação da pressão para entrada e a saída, é possível calcular a perda de carga com a fórmula 
+Com os dados qualitativos obtidos na simulação é possível analisar o pleno desenvolvimento do escoamento e o perfil parabólico gerado pelo escoamento da água no tubo. 
+
+Já com os dados quantitativos há a possibilidade de calcular outros parâmetros relacionados ao escoamento. Como a perda de carga 
 
 ![Equação](perda_de_carga.gif)
 
-e o valor máximo da velocidade do fluido 
+E o valor máximo da velocidade do fluido  
 
 ![Equação](velocidade_maxima.gif)
 
@@ -260,14 +262,14 @@ As imagens acima são semelhantes para todos os comprimentos bem como sua análi
 
 ### Análise dos resultados paramétricos
 
-O objetivo do projeto era a avaliaçãoda variação da pressão com a variação do comprimento do tubo. 
+No projeto foram obtidos os dados para a variação de pressão com a variação do comprimento do tubo de duas formas distintas, por meio de fórmulas e simulação.
 
-O comportamento esperado de fato ocorreu porém ao comparar com a teoria há uma discrepância entre os resultados encontrados das duas formas praticadas. 
+No cálculo realizado a partir da fórmula, para os dados apresentados no enunciado, foi encontrada uma queda de pressão de 1.592 Pa. Enquanto no software foi encontrada uma queda de pressão de 1.8221 Pa, o qual corrobora a queda de pressão apresentada no enunciado e evidencia uma diferença dos resultados do parâmetro analisado entre os métodos escolhidos. Essa diferença entre os resultados encontrados mostra um problema na tubulação. 
 
-Essa diferença demonstra um problema na tubulação, esse problema pode se dar por 
+Esse problema pode ter vários fatores, entre eles estão 
 
-1. Entupimento da tubulação
-2. Rachadura na tubulação 
-3. Comprimento incorreto da tubulação 
+i. Entupimento da tubulação
+ii. Rachadura na tubulação 
+iii. Comprimento incorreto da tubulação 
 
-A terceira hipótese de problema foi comprovada pelos testes realizados com diferentes comprimentos. No comprimento igual a 0.75m a variação de pressão calculada pela fórmula e encontrada na simulação é aproximadamente igual a 1.22 Pa em ambos os casos. Dessa forma, a teoria válida a simulação, que nesse comprimento é possível ter um escoamento plenamente desenvolvido e parábolico com a vazão apresentada.
+A terceira hipótese é comprovada pelos dados obtidos, pois no comprimento do tubo igual a 0.75m a variação de pressão encontrada por ambos os métodos foi de aproximadamente 1.22 Pa. E com esse valor obtido, há uma validação da simulação com os cálculos teóricos. 
