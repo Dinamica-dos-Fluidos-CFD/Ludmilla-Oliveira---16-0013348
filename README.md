@@ -274,3 +274,9 @@ ii. Rachadura na tubulação
 iii. Comprimento incorreto da tubulação 
 
 A terceira hipótese é comprovada pelos dados obtidos, pois no comprimento do tubo igual a 0.75m a variação de pressão encontrada por ambos os métodos foi de aproximadamente 1.22 Pa. E com esse valor obtido, há uma validação da simulação com os cálculos teóricos. 
+
+## Conclusão 
+
+Neste projeto foi feita uma análise da variação da pressão com a variação do comprimento do tubo. Essa análise foi feita por meio da comparação dos resultados obtidos por meio de cálculos teóricos e por meio da simulação. Com os resultados obtidos para o comprimento de 1m foi observado que a simulação corrobora o enunciado. Entretanto os resultados obtidos não são coerentes com os cálculos realizados, sendo assim a tubulação apresenta problemas. 
+
+Dessa forma foram enunciados possíveis problemas para essa diferença entre os resultados. A principal hipótese levantada é o comprimento incorreto da tubulação e a partir disso foi comprovado o problema na tubulação, tendo em vista que no comprimento de 0.75m os resultados encontrados de ambos os modos é 1.22 Pa.
