@@ -268,7 +268,9 @@ No cálculo realizado a partir da fórmula, para os dados apresentados no enunci
 Esse problema pode ter vários fatores, entre eles estão 
 
 i. Entupimento da tubulação
+
 ii. Rachadura na tubulação 
+
 iii. Comprimento incorreto da tubulação 
 
 A terceira hipótese é comprovada pelos dados obtidos, pois no comprimento do tubo igual a 0.75m a variação de pressão encontrada por ambos os métodos foi de aproximadamente 1.22 Pa. E com esse valor obtido, há uma validação da simulação com os cálculos teóricos. 
