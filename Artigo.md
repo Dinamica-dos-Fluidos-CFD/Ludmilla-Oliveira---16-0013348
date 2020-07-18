@@ -33,9 +33,19 @@ Os resultados do projeto são obtidos de duas maneiras distintas: cálculos teó
 
 Os resultados teóricos são obtidos por meio da aplicação de uma das soluções da equação de Navier-Stokes, com a qual é possível o cálculo da variação de pressão.
 
-/
+![Figura - Equação da variação de pressão](CodeCogsEqn.gif)
 
 Para a análise do problema foram usados 6 tamanhos de tubulação sendo um dos tamanhos o descrito na introdução e os outros foram escolhidos de forma arbitrária para que fosse possível uma comparação entre os resultados.
+
+Tamanho (m) | Variação de pressão calculada (Pa)
+-----------:|-----------------------------------:
+0.50        |0.796
+0.75        |1.194
+1.00        |1.592
+1.25        |1.99
+1.50        |2.388
+2.00        |3.184
+
 
 ## 4.2 Simulação 
 
