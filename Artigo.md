@@ -73,6 +73,12 @@ O esquemático abaixo foi feito com o intuito de elucidar o problema com as dime
 
 ![Esquemático do problema](Esquema.png)
 
+b. Malha 
+
+A malha foi gerada de forma automática, tendo em vista a simplicidade da geometria que possibilita o uso de uma malha que não seja tão refinada. 
+
+![Malha automática](malha.png)
+
 # 5. Discussão dos resultados 
 
 # 6. Conclusão 
