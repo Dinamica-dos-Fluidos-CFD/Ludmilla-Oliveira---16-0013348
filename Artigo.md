@@ -57,6 +57,22 @@ Tamanho (m) | Variação de pressão calculada (Pa)
 
 ## 4.2 Simulação 
 
+A simulação foi feita no Fluid Flow (CFX) do Ansys. Essa simulação segue a árvore de trabalho abaixo. 
+
+![Árvore de trabalho do CFX](arvore.gif)
+
+Essa árvore de trabalho apresenta as etapas a serem seguidas para o desenvolvimento do projeto. Estas etapas são elucidadas abaixo.  
+
+a. Geometria 
+
+A geometria do projeto é simples, sendo um tubo sem conexões ou detalhes, com um comprimento de 1m e um diâmetro de 40mm.
+
+![Geometria do projeto no Ansys](Largura.jpg)
+
+O esquemático abaixo foi feito com o intuito de elucidar o problema com as dimensões do tubo e seus parâmetros apresentados. 
+
+![Esquemático do problema](Esquema.jpg)
+
 # 5. Discussão dos resultados 
 
 # 6. Conclusão 
