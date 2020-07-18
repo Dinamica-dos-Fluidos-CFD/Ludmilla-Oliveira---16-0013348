@@ -77,7 +77,7 @@ b. Malha
 
 A malha foi gerada de forma automática, tendo em vista a simplicidade da geometria que possibilita o uso de uma malha que não seja tão refinada. 
 
-![Malha automática](malha.png)
+![Malha automática](Malha.png)
 
 # 5. Discussão dos resultados 
 
