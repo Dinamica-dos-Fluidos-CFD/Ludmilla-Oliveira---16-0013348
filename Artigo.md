@@ -67,11 +67,11 @@ a. Geometria
 
 A geometria do projeto é simples, sendo um tubo sem conexões ou detalhes, com um comprimento de 1m e um diâmetro de 40mm.
 
-![Geometria do projeto no Ansys](Largura.jpg)
+![Geometria do projeto no Ansys](Largura.png)
 
 O esquemático abaixo foi feito com o intuito de elucidar o problema com as dimensões do tubo e seus parâmetros apresentados. 
 
-![Esquemático do problema](Esquema.jpg)
+![Esquemático do problema](Esquema.png)
 
 # 5. Discussão dos resultados 
 
