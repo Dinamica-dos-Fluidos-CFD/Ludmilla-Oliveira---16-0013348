@@ -93,6 +93,20 @@ Para a realização da simulação foram levados 21.887 segundos.
 
 ### e. Resultados
 
+Com a etapa da solução concluída, são gerados os resultados qualitativos da simulação os quais avaliam a pressão e a velocidade gerando gráficos e contornos.
+
+#### i. Velocidade
+
+No contorno de velocidade é observado que a velocidade é maior no centro do tubo, havendo uma evolução na velocidade da entrada até a saída, enquanto a velocidade nas paredes é menor.
+
+![Contorno de velocidade](contorno_velocidade.png)
+
+No contorno de velocidade é observado que a velocidade é maior no centro do tubo, havendo uma evolução na velocidade da entrada até a saída, enquanto a velocidade nas paredes é menor.
+
+![Gráfico do perfil de velocidade](perfil_velocidade.png)
+
+#### ii. Pressão
+
 ### f. Parâmetros
 
 # 5. Discussão dos resultados 
