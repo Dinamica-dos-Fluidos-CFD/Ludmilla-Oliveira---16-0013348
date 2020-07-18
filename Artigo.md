@@ -91,11 +91,9 @@ Nessa etapa é feita a configuração dos parâmetros que vão nortear a simula�
 
 ### d. Solução 
 
-Nessa etapa é verificada a convergência do problema, que se dá quando as curvas geradas no gráfico apontam para uma mesma direção, no caso do problema analisado todas as curvas apontam pra baixo validando a convergência do problema.
+Nessa etapa é verificada a convergência do problema, que se dá quando as curvas geradas no gráfico apontam para uma mesma direção, no caso do problema analisado todas as curvas apontam pra baixo validando a convergência do problema.Para a realização da simulação foram levados 21.887 segundos. 
 
 ![Gráfico de convergência do problema](convergencia.png)
-
-Para a realização da simulação foram levados 21.887 segundos. 
 
 ### e. Resultados
 
@@ -122,6 +120,17 @@ Já no gráfico de perda de carga a curva gerada é uma linha descendente, o que
 ![Gráfico da perda de carga](grafico_perda_carga.png)
 
 ### f. Parâmetros
+
+Na etapa dos parâmetros, são acrescidas informações as outras etapas que permitem o cálculo da variação de pressão da simulação já realizada. Com a implementação de uma equação na etapa dos resultados para o cálculo da variação da pressão foi possível chegar aos seguintes resultados.
+
+Tamanho (m) | Variação de pressão simulada (Pa)
+-----------:|-----------------------------------:
+0.50        |0.8815
+0.75        |1.2213
+1.00        |1.8221
+1.25        |1.4776
+1.50        |2.8797
+2.00        |3.7592
 
 # 5. Discussão dos resultados 
 
