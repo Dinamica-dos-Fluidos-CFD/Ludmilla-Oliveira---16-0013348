@@ -69,10 +69,6 @@ A geometria do projeto é simples, sendo um tubo sem conexões ou detalhes, com 
 
 ![Geometria do projeto no Ansys](Largura.png)
 
-O esquemático abaixo foi feito com o intuito de elucidar o problema com as dimensões do tubo e seus parâmetros apresentados. 
-
-![Esquemático do problema](Esquema.png)
-
 ### b. Malha 
 
 A malha foi gerada de forma automática, tendo em vista a simplicidade da geometria que possibilita o uso de uma malha que não seja tão refinada. 
@@ -81,6 +77,18 @@ A malha foi gerada de forma automática, tendo em vista a simplicidade da geomet
 
 ### c. Setup
 
+Nessa etapa é feita a configuração dos parâmetros que vão nortear a simulação realizada. Esses parâmetros são 
+
+- a água como fluido de escoamento
+
+- a velocidade na entrada como 0.0796 m/s
+
+- a pressão relativa na saída como 0 Pa
+
+- a definição de que o escoamento é laminar e a ausência de transferência de calor com o meio
+
+- a manutenção dos parâmetros configurados automaticamente
+
 ### d. Solução 
 
 Nessa etapa é verificada a convergência do problema, que se dá quando as curvas geradas no gráfico apontam para uma mesma direção, no caso do problema analisado todas as curvas apontam pra baixo validando a convergência do problema.
@@ -88,8 +96,6 @@ Nessa etapa é verificada a convergência do problema, que se dá quando as curv
 ![Gráfico de convergência do problema](convergencia.png)
 
 Para a realização da simulação foram levados 21.887 segundos. 
-
-![Tempo de simulação](tempo.png)
 
 ### e. Resultados
 
@@ -106,6 +112,14 @@ No contorno de velocidade é observado que a velocidade é maior no centro do tu
 ![Gráfico do perfil de velocidade](perfil_velocidade.png)
 
 #### ii. Pressão
+
+No contorno de pressão é visto que a pressão aumenta na direção da saída do fluido.
+
+![Contorno de pressão](contorno_pressao.png) 
+
+Já no gráfico de perda de carga a curva gerada é uma linha descendente, o que é coerente com o comportamento esperado.
+
+![Gráfico da perda de carga](grafico_perda_carga.png)
 
 ### f. Parâmetros
 
