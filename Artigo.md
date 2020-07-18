@@ -59,7 +59,7 @@ Tamanho (m) | Variação de pressão calculada (Pa)
 
 A simulação foi feita no Fluid Flow (CFX) do Ansys. Essa simulação segue a árvore de trabalho abaixo. 
 
-![Árvore de trabalho do CFX](arvore.gif)
+![Árvore de trabalho do CFX](arvore.png)
 
 Essa árvore de trabalho apresenta as etapas a serem seguidas para o desenvolvimento do projeto. Estas etapas são elucidadas abaixo.  
 
