@@ -37,6 +37,12 @@ Os resultados teóricos são obtidos por meio da aplicação de uma das soluçõ
 
 ![Figura - Equação da variação de pressão](CodeCogsEqn.gif)
 
+Para a determinação da velocidade ![Velocidade](velocidade2.gif) foi necessária a aplicação da fórmula
+
+![Fórmula da velocidade](velocidade1.gif)
+
+A qual determina a velocidade de escoamento do fluido a partir da vazão.
+
 Para a análise do problema foram usados 6 tamanhos de tubulação sendo um dos tamanhos o descrito na introdução e os outros foram escolhidos de forma arbitrária para que fosse possível uma comparação entre os resultados.
 
 Tamanho (m) | Variação de pressão calculada (Pa)
