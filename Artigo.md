@@ -79,6 +79,22 @@ A malha foi gerada de forma automática, tendo em vista a simplicidade da geomet
 
 ![Malha automática](Malha.png)
 
+c. Setup
+
+d. Solução 
+
+Nessa etapa é verificada a convergência do problema, que se dá quando as curvas geradas no gráfico apontam para uma mesma direção, no caso do problema analisado todas as curvas apontam pra baixo validando a convergência do problema.
+
+![Gráfico de convergência do problema](convergencia.png)
+
+Para a realização da simulação foram levados 21.887 segundos. 
+
+![Tempo de simulação](tempo.png)
+
+e. Resultados
+
+f. Parâmetros
+
 # 5. Discussão dos resultados 
 
 # 6. Conclusão 
