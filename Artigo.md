@@ -134,6 +134,18 @@ Tamanho (m) | Variação de pressão simulada (Pa)
 
 # 5. Discussão dos resultados 
 
+Para o tamanho de 1m de comprimento, que é o padrão, foi constatado que a simulação corrobora com a proposta do projeto. Tendo em vista que na proposta foi dito que a variação de pressão entre a entrada e a saída seria de 2 Pa enquanto na simulação foi encontrado um valor de 1.8221 Pa. Essa diferença entre os valores está abaixo dos 10% indicados, girando em torno de 9%, o que torna o valor encontrado na simulação aceitável.
+
+Porém quando há uma comparação entre o resultado encontrado na simulação e o resultado calculado a diferença é de 0.2301 Pa. Essa diferença apresenta que há um problema na tubulação que pode ser causado por diversos fatores. Esses fatores são citados abaixo
+
+- entupimento da tubulação
+
+- rachaduras na tubulação
+
+- comprimento incorreto da tubulação para a vazão apresentada
+
+As duas primeiras hipóteses não podem ter uma comprovação teórica tendo em vista que são problemas físicos na tubulação, enquanto a terceira hipótese foi comprovada. Quando são observadas as variações de pressão para o comprimento de 0.75m, tanto a calculada quanto a simulada, temos a mesma variação de pressão, de 1.20 Pa, e nesse caso a teoria corrobora a prática.
+
 # 6. Conclusão 
 
   Neste projeto foi feita uma análise da variação da pressão com a variação do comprimento do tubo. Essa análise foi feita por meio da comparação dos resultados obtidos por meio de cálculos teóricos e por meio da simulação. Com os resultados obtidos para o comprimento de 1m foi observado que a simulação corrobora o enunciado. Entretanto os resultados obtidos não são coerentes com os cálculos realizados, sendo assim a tubulação apresenta problemas.
