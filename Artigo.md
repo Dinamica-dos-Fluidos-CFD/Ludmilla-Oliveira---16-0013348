@@ -16,13 +16,15 @@ Os objetivos específicos são
 
 A metodologia aplicada para a realização do projeto foi
 
-1.	Simulação do escoamento em um tubo, no CFX
+1.  Determinação de simplificações e parâmetros iniciais (modelagem do problema)
 
-2.	Cálculos teóricos utilizando a solução da equação de Navier-Stokes
+2.	Simulação do escoamento em um tubo, no CFX
 
-3.	Comparação entre os dados da simulação e os cálculos
+3.	Cálculos teóricos utilizando a solução da equação de Navier-Stokes
 
-4.	Apresentação dos possíveis problemas na tubulação
+4.	Comparação entre os dados da simulação e os cálculos
+
+5.	Apresentação dos possíveis problemas na tubulação
 
 
 # 4. Desenvolvimento 
