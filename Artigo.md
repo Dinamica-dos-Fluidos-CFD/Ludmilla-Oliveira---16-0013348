@@ -63,7 +63,7 @@ A simulação foi feita no Fluid Flow (CFX) do Ansys. Essa simulação segue a �
 
 Essa árvore de trabalho apresenta as etapas a serem seguidas para o desenvolvimento do projeto. Estas etapas são elucidadas abaixo.  
 
-a. Geometria 
+### a. Geometria 
 
 A geometria do projeto é simples, sendo um tubo sem conexões ou detalhes, com um comprimento de 1m e um diâmetro de 40mm.
 
@@ -73,15 +73,15 @@ O esquemático abaixo foi feito com o intuito de elucidar o problema com as dime
 
 ![Esquemático do problema](Esquema.png)
 
-b. Malha 
+### b. Malha 
 
 A malha foi gerada de forma automática, tendo em vista a simplicidade da geometria que possibilita o uso de uma malha que não seja tão refinada. 
 
 ![Malha automática](Malha.png)
 
-c. Setup
+### c. Setup
 
-d. Solução 
+### d. Solução 
 
 Nessa etapa é verificada a convergência do problema, que se dá quando as curvas geradas no gráfico apontam para uma mesma direção, no caso do problema analisado todas as curvas apontam pra baixo validando a convergência do problema.
 
@@ -91,9 +91,9 @@ Para a realização da simulação foram levados 21.887 segundos.
 
 ![Tempo de simulação](tempo.png)
 
-e. Resultados
+### e. Resultados
 
-f. Parâmetros
+### f. Parâmetros
 
 # 5. Discussão dos resultados 
 
