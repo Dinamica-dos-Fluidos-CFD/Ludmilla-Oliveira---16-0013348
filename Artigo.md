@@ -26,7 +26,17 @@ A metodologia aplicada para a realização do projeto foi
 
 
 # 4. Desenvolvimento 
+
+Os resultados do projeto são obtidos de duas maneiras distintas: cálculos teóricos e simulação. Esses resultados são explanados abaixo. 
+
 ## 4.1 Cálculos teóricos 
+
+Os resultados teóricos são obtidos por meio da aplicação de uma das soluções da equação de Navier-Stokes, com a qual é possível o cálculo da variação de pressão.
+
+/
+
+Para a análise do problema foram usados 6 tamanhos de tubulação sendo um dos tamanhos o descrito na introdução e os outros foram escolhidos de forma arbitrária para que fosse possível uma comparação entre os resultados.
+
 ## 4.2 Simulação 
 
 # 5. Discussão dos resultados 
