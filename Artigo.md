@@ -121,7 +121,7 @@ Já no gráfico de perda de carga a curva gerada é uma linha descendente, o que
 
 ### f. Parâmetros
 
-Na etapa dos parâmetros, são acrescidas informações as outras etapas que permitem o cálculo da variação de pressão da simulação já realizada. Com a implementação de uma equação na etapa dos resultados para o cálculo da variação da pressão foi possível chegar aos seguintes resultados.
+Na etapa dos parâmetros, são acrescidas informações as outras etapas que permitem o cálculo da variação de pressão da simulação já realizada. Com a implementação de uma equação na etapa dos resultados para o cálculo da variação da pressão foi possível chegar aos seguintes resultados quantitativos.
 
 Tamanho (m) | Variação de pressão simulada (Pa)
 -----------:|-----------------------------------:
