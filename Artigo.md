@@ -16,6 +16,19 @@ O objetivo geral do projeto é a análise da variação da pressão com a varia�
 ### 3.2.1 Geometria
 ### 3.2.2 Malha 
 ### 3.2.3 Setup
+
+Nessa etapa é feita a configuração dos parâmetros que vão nortear a simulação realizada. Esses parâmetros são 
+
+- a água como fluido de escoamento
+
+- a velocidade na entrada como 0.0796 m/s
+
+- a pressão relativa na saída como 0 Pa
+
+- a definição de que o escoamento é laminar e a ausência de transferência de calor com o meio
+
+- a manutenção dos parâmetros configurados automaticamente
+
 ### 3.2.4 Solução
 ### 3.2.5 Resolução
 ### 3.2.6 Parâmetros 
