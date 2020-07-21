@@ -4,7 +4,7 @@ O projeto a ser analisado é o escoamento de um fluido em uma tubulação simple
 
 Para a análise do problema analisado será utilizado o CFD, por meio do Fluid Flow CFX do Ansys, e cálculos teóricos, para que seja feita uma comparação posterior entre os métodos. O CFD (Computational Fluid Dynamics) é uma metodologia que combina técnicas de cálculo numérico e dinâmica dos fluidos para a solução de problemas de análise de escoamento e suas possíveis variáveis. Essa metodologia é a mais adequada para a análise desse escoamento, tendo em vista que não foram encontradas outras opções para que essa análise fosse realizada.
 
-A importância do projeto vem da capacidade de ser realizado um estudo paramétrico, para o caso da variação de pressão, o qual é capaz de qualificar o escoamento em função do parâmetro analisado, sendo essa qualificação de modo quantidativo e de modo qualitativo. 
+A importância do projeto vem da capacidade de ser realizado um estudo paramétrico, para o caso da variação de pressão, o qual é capaz de qualificar o escoamento em função do parâmetro analisado, sendo essa qualificação de modo quantitativo e de modo qualitativo. 
 
 O objetivo geral do projeto é a análise da variação da pressão com a variação do comprimento do tubo. Comparando os dados obtidos na simulação e os dados obtidos pelos cálculos teóricos usando as informações fornecidas no enunciado. Dessa forma, os objetivos específicos são a validação dos dados apresentados, e caso não sejam validados, o levantamento de hipóteses dos possíveis problemas.
 
